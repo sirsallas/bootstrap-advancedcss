@@ -1,2 +1,1 @@
-# bootstrap-advancedcss
-crpytolink bootstrap landing page
+TinDog Starting Files
